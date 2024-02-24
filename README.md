@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Frank InMoov</title>
 </head>
 <body>
 
