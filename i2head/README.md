@@ -12,8 +12,7 @@
 <p>Fit FaceHolderLeft and FaceHolderRight to GearHolderV3.  These can then be glued to form a permanent assembly. </p>
 <p>Tap the 8 eye assembly mountings holes for 2mm screws</p>
 
-<img src="images/base-step1.jpg">
-<a href="images/base-step1.jpg" onclick="window.open('img.png','targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1090px, height=550px, top=25px left=120px'); return false;"><img src="images/base-step1s.jpg"</a> 
+<a href="images/bsae-step1.jpg"><img src="images/base-step1s.jpg"></a>
 
 
 <p>Fit FaceHolderLeft and FaceHolderRight to GearHolderV3.  These can then be glued to form permanent assembly. </p>
