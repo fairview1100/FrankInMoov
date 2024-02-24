@@ -14,9 +14,6 @@
 
 <a href="images/bsae-step1.jpg"><img src="images/base-step1s.jpg"></a>
 
-
-<p>Fit FaceHolderLeft and FaceHolderRight to GearHolderV3.  These can then be glued to form permanent assembly. </p>
-
 <p>Suggest at this point test fit and sand the ServoGear and MainGear for a smooth fit and gear teeth action.</p>
 
 <img src="images/base-step2-gears.jpg"><img src="images/base-step2-gears1.jpg">
