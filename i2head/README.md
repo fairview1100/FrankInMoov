@@ -12,7 +12,7 @@
 <p>Fit FaceHolderLeft and FaceHolderRight to GearHolderV3.  These can then be glued to form a permanent assembly. </p>
 <p>Tap the 8 eye assembly mountings holes for 2mm screws</p>
 
-<a href="images/bsae-step1.jpg"><img src="images/base-step1s.jpg"></a>
+<a href="images/base-step1.jpg"><img src="images/base-step1s.jpg"></a>
 
 <p>Suggest at this point test fit and sand the ServoGear and MainGear for a smooth fit and gear teeth action.</p>
 
