@@ -27,7 +27,12 @@
 
 <br>
 <br>
+
+<BR>
+*** Steps being added here as rebuild continues ***
 <hr>
+
+
 <p>Much later....<p>
 
 <p>Attach completed eye assemblies from i2eyes guide using 2mm x 8mm screws</p>
