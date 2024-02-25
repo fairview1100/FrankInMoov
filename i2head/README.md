@@ -46,11 +46,30 @@
 
 <BR>
 <BR>
-<p>Assemble upper teeth and plate. Tap 2 holes at 3mm or self thread. From notes above I would not suggest glueing this assembly yet in case the teeth need further alignment once the jaw is assembled.</p>
+<p>Assemble upper teeth and plate. Tap 2 holes at 3mm or self thread.</p>
 
 <a href="images/upper-teeth.jpg"><img src="images/upper-teeths.jpg"></a>
 <a href="images/upper-teeth-assembled.jpg"><img src="images/upper-teeth-assembleds.jpg"></a>
+<br><BR>
+<p>Jaw Assembly</p>
+<p>4 3mm x 8mm screws and nuts</p>
+<a href="images/jaw-and-lower-teeth-assembled.jpg"><img src="images/jaw-and-lower-teeth-assembleds.jpg"></a>
 
+<br><BR>
+<p>Installing upper teeth assembly to faceholder assembly. This part might get resolved if the holes align for the teeth.<p>
+<p>To determine the new upper teeth plate assembly I attached the jaw, aligned the upper teeth plate drawing a right angle of where one corner meets.  Easier than trying keep the assembly in place to drill a first hole.  </p>
+<a href="upper-teeth-adjusting-holes.jpg"><img src="upper-teeth-adjusting-holess.jpg"></a>
+<a href="upper-teeth-aligning.jpg"><img src="upper-teeth-alignings.jpg"></a>
+
+<BR><BR>
+<p>Jaw and teeth aligned</p>
+<a href="images/jaw-and-teeth.jpg"><img src="images/jaw-and-teeths.jpg">
+<a href="images/jaw-and-teeth-open.jpg"><img src="images/jaw-and-teeth-opens.jpg">
+
+
+<br><BR>
+<p>Alignment issue - upper lip</p>
+<p>The pdi-1109mg is not much better aligned than the MG90s was.  With the shorter servo I need to make a spacer to shift the upper lip to align with the upper teeth</p>
 
 
 *** Steps being added here as rebuild continues ***
