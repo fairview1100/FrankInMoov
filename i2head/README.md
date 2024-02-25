@@ -8,6 +8,12 @@
 <p>My steps for assembly of the i2head. </p>
 <p>*** Disclaimer ***  This is not an official guide, just what I worked through during the intial release of the new i2head.</p>
 
+<h3>Parts and electronics</h3>
+<p>Servos</p>
+<p>--- PDI-1109MG (qnty X) - I used these where height is crictial to match. They are more expensive than the MG90s</p>
+<p>--- MG90s (qnty X)  - I used these everywhere else for the small servos.</p>
+
+
 <h3>Base</h3>
 
 <p>Fit FaceHolderLeft and FaceHolderRight to GearHolderV3.  These can then be glued to form a permanent assembly. </p>
@@ -28,6 +34,11 @@
 <br>
 <br>
 
+<p>Mount the upper lip servo PDI-1109MG.  This is another location where the MG90s servo is too tall and the offsets the upperlip piece too much.</p>
+
+<a href="images/upper-lip-servo.jpg"><img src="images/upper-lip-servos.jpg"></a>
+
+<BR>
 <BR>
 *** Steps being added here as rebuild continues ***
 <hr>
