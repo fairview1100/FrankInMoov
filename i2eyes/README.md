@@ -6,9 +6,10 @@
 
 
 <h2>i2head assembly steps</h2>
-<p>My steps for assembly of the i2head. </p>
+<p>My steps for assembly of the i2eyes. </p>
 <p>*** Disclaimer ***  This is not an official guide, just what I worked through during the intial release of the new i2head.</p>
 
+<p><p><p>
 
 
 
