@@ -19,7 +19,19 @@
 <a href="images/base-step2-gears.jpg"><img src="images/base-step2-gearss.jpg"></a><a href="images/base-step2-gears1.jpg"><img src="images/base-step2-gears1s.jpg"></a>
 <p></p>
 
+
+<p>Notes if this is still an issue.  The mounting holes on the FaceHolderLeft and FaceHolderRight for the upper teeth plate are not aligned properly.  In the side by side photos the right is the original for clarity. The left with the indicated markings are where I redrilled once the lower jaw assembly was mounted.  
+
+<a href="images/upper-teeth-mounting-hole-issue.jpg"><img src="images/upper-teeth-mounting-hole-issues.jpg"></a>
+
+<br>
+<br>
+<hr>
+<p>Much later....<p>
+
 <p>Attach completed eye assemblies from i2eyes guide using 2mm x 8mm screws</p>
+
+
 
 
 <a href="images/attach-eye-assembly-right.jpg"><img src="images/attach-eye-assembly-rights.jpg"></a>
