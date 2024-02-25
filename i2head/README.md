@@ -63,13 +63,14 @@
 
 <BR><BR>
 <p>Jaw and teeth aligned</p>
-<a href="images/jaw-and-teeth.jpg"><img src="images/jaw-and-teeths.jpg">
-<a href="images/jaw-and-teeth-open.jpg"><img src="images/jaw-and-teeth-opens.jpg">
+<a href="images/jaw-and-teeth.jpg"><img src="images/jaw-and-teeths.jpg"></a>
+<a href="images/jaw-and-teeth-open.jpg"><img src="images/jaw-and-teeth-opens.jpg"></a>
 
 
 <br><BR>
 <p>Alignment issue - upper lip</p>
 <p>The pdi-1109mg is not much better aligned than the MG90s was.  With the shorter servo I need to make a spacer to shift the upper lip to align with the upper teeth</p>
+<a href="images/upper-lip-align-gap.jpg"><img src="images/upper-lip-align-gaps.jpg"></a>
 
 
 *** Steps being added here as rebuild continues ***
