@@ -58,8 +58,8 @@
 <br><BR>
 <p>Installing upper teeth assembly to faceholder assembly. This part might get resolved if the holes align for the teeth.<p>
 <p>To determine the new upper teeth plate assembly I attached the jaw, aligned the upper teeth plate drawing a right angle of where one corner meets.  Easier than trying keep the assembly in place to drill a first hole.  </p>
-<a href="upper-teeth-adjusting-holes.jpg"><img src="upper-teeth-adjusting-holess.jpg"></a>
-<a href="upper-teeth-aligning.jpg"><img src="upper-teeth-alignings.jpg"></a>
+<a href="images/upper-teeth-adjusting-holes.jpg"><img src="images/upper-teeth-adjusting-holess.jpg"></a>
+<a href="images/upper-teeth-aligning.jpg"><img src="images/upper-teeth-alignings.jpg"></a>
 
 <BR><BR>
 <p>Jaw and teeth aligned</p>
