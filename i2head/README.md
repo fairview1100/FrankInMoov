@@ -33,6 +33,12 @@
 
 <br>
 <br>
+<p>Mount left and right jaw hinges. Sand these as needed for an easy fit. You can see in my image I cracked the PETG forcing them in.  These can be glued.</p>
+<a href="images/jaw-hinges.jpg"><img src="images/jaw-hingess.jpg></a>
+
+
+<BR><BR>
+
 
 <p>Mount the upper lip servo PDI-1109MG.  This is another location where the MG90s servo is too tall and the offsets the upperlip piece too much.</p>
 
@@ -40,6 +46,13 @@
 
 <BR>
 <BR>
+<p>Assemble upper teeth and plate. Tap 2 holes at 3mm or self thread. From notes above I would not suggest glueing this assembly yet in case the teeth need further alignment once the jaw is assembled.</p>
+
+<a href="images/upper-teeth.jpg"><img src="images/upper-teeths.jpg"></a>
+<a href="images/upper-teeth-assembled.jpg"><img src="images/upper-teeth-assembleds.jpg"></a>
+
+
+
 *** Steps being added here as rebuild continues ***
 <hr>
 
