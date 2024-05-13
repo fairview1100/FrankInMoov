@@ -50,6 +50,7 @@ Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.ht
 <p>Once changed apply the file to get it current in MRL</p>
 <p>Now it's ready to test TTS MRL -> Coqui.</p>
 <p>Select the gear icon for the mouth, type in some sample text and click Speak.  If all is working you should hear the audio played back in the default MRL output.  You can view the API call from the docker cli window running the API server. </p>
+<img src="images/speak-mrl.png"><img src="images/speak-docker.png">
 <b>Demo</b>
 <a href="images/demo.mkv">Demo Video</a>
 </body>
