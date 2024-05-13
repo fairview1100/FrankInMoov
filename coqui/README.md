@@ -30,6 +30,19 @@ Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.ht
 <p>python3 TTS/server/server.py --model_name tts_models/en/vctk/vits --use_cuda true</p>
 
 
+<b> Note on single or multi speaker models </b>
+<p>When chosing a model to run above it needs to be noted whether the model contains a single or multi-speaker voices.  If multi-speaker than additonal parameters will need to be added to the default RemoteSpeech URL configuration manually (comparison covered below).</p>
+
+<b>Verify working to to this point:</b>
+<p>If the CoquiTTS server container is runnign properly at this point you can browse to http://localhost:5002 and run TTS tests. </p>
+<p></p>
+
+<h2>Use CoquiTTS with MRL and RemoteSpeech option</h2>
+<p>The built-in RemoteSpeech mouth function will call the coqui API on port 5002 with the /api/tts parameters for text. 
+
+<p>In MRL: Select Mouth, then under type select RemoteSpeech.  At this point of the code only the default parameters are selectable (MozillaTTS, default voice).  Any changes we'll hardcode in the i01.mouth.yml file for proof of concept. </p>
+<img src="images/select-remotespeech.png">
+<p></p>
 </body>
 </html>
 
