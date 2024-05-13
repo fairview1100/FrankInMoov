@@ -4,15 +4,32 @@
 </head>
 <body>
 
-<h1>Hello world!</h1>
-<p>This is the build page for Frank InMoov</p>
+<h1>Coqui TTS install MRL</h1>
+<p>Test guide for using Coqui TTS with MyRobotLab</p>
 
-<p>Frank version 1 completed in 2017/2018.  Now being upgraded with the new i2 parts for 2024!</p>
-<br>
-<p>InMoov designed by Gaël LANGEVIN home page is</p>
-<a href="https://inmoov.fr/">InMoov Home</a>
-<br><BR><br>
-<img src="images/FrankFull.png">
+<p>Pre-requisites:</p>
+<p>MyRobot Lab installed</p>
+<p>Docker or Docker Desktop for Windows installed</p>
+<p><p>
+
+Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.html#start-a-server">Here</a>
+
+<h2>Running Coqui docker image:</h2>
+
+<b>CPU Based:</b>
+
+<p>docker run --rm -it -p 5002:5002 --entrypoint /bin/bash ghcr.io/coqui-ai/tts-cpu</p>
+<p>python3 TTS/server/server.py --list_models #To get the list of available models</p>
+<p>python3 TTS/server/server.py --model_name tts_models/en/vctk/vits</p>
+
+
+<b>GPU based:</b>
+
+<p>docker run --rm -it -p 5002:5002 --gpus all --entrypoint /bin/bash ghcr.io/coqui-ai/tts</p>
+<p>python3 TTS/server/server.py --list_models #To get the list of available models</p>
+<p>python3 TTS/server/server.py --model_name tts_models/en/vctk/vits --use_cuda true</p>
+
+
 </body>
 </html>
 
