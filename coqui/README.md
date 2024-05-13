@@ -43,7 +43,7 @@ Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.ht
 <p>In MRL: Select Mouth, then under type select RemoteSpeech.  At this point of the code only the default parameters are selectable (MozillaTTS, default voice).  Any changes we'll hardcode in the i01.mouth.yml file for proof of concept. </p>
 <img src="images/select-remotespeech.png">
 <p></p>
-<p>If you are using a multi-speaker model we need now to manually edit the i01.mouth.yml file to include the two extra parameters. If you are using a single speaker voice this step can be skipped.</p>
+<p>If you are using a multi-speaker model we need now to manually edit the i01.mouth.yml file to include the extra parameters. If you are using a single speaker voice this step can be skipped.</p>
 <p>Editing i01.mouth.yml<p>
 <img src="images/i01-mouth.png"><p></p>
 <p>For multi-speaker voice the speaker_id and style_wav parameters needed to be added to the URL line.</p>  
