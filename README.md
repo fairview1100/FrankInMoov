@@ -4,14 +4,15 @@
 </head>
 <body>
 
-<h1>Coqui TTS install MRL</h1>
-<p>Test guide for using Coqui TTS with MyRobotLab</p>
+<h1>Hello world!</h1>
+<p>This is the build page for Frank InMoov</p>
 
-<p>Pre-requisites:</p>
-<p>MyRobot Lab installed</p>
-<p>Docker or Docker Desktop for Windows installed</p>
-<p><p>
-
+<p>Frank version 1 completed in 2017/2018.  Now being upgraded with the new i2 parts for 2024!</p>
+<br>
+<p>InMoov designed by Gaël LANGEVIN home page is</p>
+<a href="https://inmoov.fr/">InMoov Home</a>
+<br><BR><br>
+<img src="images/FrankFull.png">
 </body>
 </html>
 
