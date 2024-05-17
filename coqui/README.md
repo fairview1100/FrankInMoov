@@ -51,6 +51,8 @@ python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch --us
 
 <b>Verify working to to this point:</b>
 <p>If the CoquiTTS server container is running properly at this point you can browse to <a href="http://localhost:5002">http://localhost:5002</a> and run TTS tests. </p>
+![server](https://github.com/fairview1100/FrankInMoov/assets/12788634/ac850265-9aaa-4108-868d-9134cdb0207b)
+
 <p></p>
 
 
