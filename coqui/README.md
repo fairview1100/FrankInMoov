@@ -17,7 +17,7 @@ Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.ht
 <h2>Running Coqui docker image:</h2>
 
 <b>CPU Based:</b>
-
+```
 <p>docker run --rm -it -p 5002:5002 --entrypoint /bin/bash ghcr.io/coqui-ai/tts-cpu</p>
 
 <p>python3 TTS/server/server.py --list_models #To get the list of available models to chose from in the next step</p>
@@ -27,7 +27,7 @@ Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.ht
 <p></p>
 <p>An option for single-speaker: </p>
 <p>python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch</p>
-
+```
 
 <b>GPU based:</b>
 
