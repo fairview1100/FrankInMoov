@@ -21,7 +21,7 @@
 docker run --rm -it -p 5002:5002 --entrypoint /bin/bash ghcr.io/coqui-ai/tts-cpu
 
 # (optional) Generate a list of built-in voices
-python3 TTS/server/server.py --list_models #To get the list of available models to chose from in the next step
+python3 TTS/server/server.py --list_models 
 
 # Choose one of the below options for running the server
 #An option for multi-speaker:
@@ -37,10 +37,10 @@ python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch
 docker run --rm -it -p 5002:5002 --gpus all --entrypoint /bin/bash ghcr.io/coqui-ai/tts</p>
 
 # (optional) Generate a list of built-in voices
-python3 TTS/server/server.py --list_models #To get the list of available models</p>
+python3 TTS/server/server.py --list_models
 
 #An option for multi-speaker :  
-python3 TTS/server/server.py --model_name tts_models/en/vctk/vits --use_cuda true<
+python3 TTS/server/server.py --model_name tts_models/en/vctk/vits --use_cuda true
 
 # An option for single-speaker: 
 python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch --use_cuda true
