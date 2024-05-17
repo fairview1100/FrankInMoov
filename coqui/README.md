@@ -62,7 +62,32 @@ python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch --us
 <p></p>
 <p>If you are using a multi-speaker model we need now to manually edit the i01.mouth.yml file to include the extra parameters. If you are using a single speaker voice this step can be skipped.</p>
 <p>Editing i01.mouth.yml<p>
-<img src="images/i01-mouth.png"><p></p>
+````
+!!org.myrobotlab.service.config.RemoteSpeechConfig
+blocking: false
+listeners: [
+  ]
+mute: false
+peers:
+  audioFile:
+    autoStart: true
+    name: i01.mouth.audioFile
+    type: AudioFile
+  http:
+    autoStart: true
+    name: i01.mouth.http
+    type: HttpClient
+speechRecognizers:
+- i01.ear
+speechType: MozillaTTS
+substitutions: null
+template: null
+type: RemoteSpeech
+url: http://localhost:5002/api/tts?text={text}&speaker_id=p287&style_wav=&language_id=
+verb: GET
+voice: null
+```
+
 <p>For multi-speaker voice the speaker_id and style_wav parameters needed to be added to the URL line.</p>  
 <p>Once changed apply the file to get it current in MRL</p>
 <p>Now it's ready to test TTS MRL -> Coqui.</p>
