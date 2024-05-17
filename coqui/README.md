@@ -4,15 +4,14 @@
 </head>
 <body>
 
-<h1>Coqui TTS install MRL</h1>
+<h1>Coqui TTS install with MRL</h1>
 <p>Test guide for using Coqui TTS with MyRobotLab</p>
 
-<p>Pre-requisites:</p>
-<p>MyRobot Lab installed</p>
+<h2><p>Pre-requisites:</p></h2>
+<p>MyRobot Lab installed <a href="https://myrobotlab.org">Download</a></p>
 <p>Docker or Docker Desktop for Windows installed</p>
 <p><p>
 
-Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.html#start-a-server">Here</a>
 
 <h2>Running Coqui docker image:</h2>
 
