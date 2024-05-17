@@ -55,11 +55,6 @@ python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch --us
 ![server](https://github.com/fairview1100/FrankInMoov/assets/12788634/9c2db17c-f414-4179-858f-0e70b008e3ef)
 
 
-https://github.com/fairview1100/FrankInMoov/assets/12788634/a1046c27-857f-4772-908e-18df4663e047
-
-
-
-
 <h2>Use CoquiTTS with MRL and RemoteSpeech option</h2>
 <p>The built-in RemoteSpeech mouth function will call the coqui API on port 5002 with the /api/tts parameters for text. 
 
