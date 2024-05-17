@@ -19,16 +19,25 @@ Coqui install docs are <a href="https://docs.coqui.ai/en/latest/docker_images.ht
 <b>CPU Based:</b>
 
 <p>docker run --rm -it -p 5002:5002 --entrypoint /bin/bash ghcr.io/coqui-ai/tts-cpu</p>
-<p>python3 TTS/server/server.py --list_models #To get the list of available models</p>
-<p>python3 TTS/server/server.py --model_name tts_models/en/vctk/vits</p>
+
+<p>python3 TTS/server/server.py --list_models #To get the list of available models to chose from in the next step</p>
+
+<p>An option for multi-speaker :  </p>
+<p>python3 TTS/server/server.py --model_name tts_models/en/vctk/vits   #(Note this is a multi-speaker voice so needs manual i01_mouth.yml updates)</p>
+<p></p>
+<p>An option for single-speaker: </p>
+<p>python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch</p>
 
 
 <b>GPU based:</b>
 
 <p>docker run --rm -it -p 5002:5002 --gpus all --entrypoint /bin/bash ghcr.io/coqui-ai/tts</p>
 <p>python3 TTS/server/server.py --list_models #To get the list of available models</p>
+<p></p>
+<p>An option for multi-speaker :  </p>
 <p>python3 TTS/server/server.py --model_name tts_models/en/vctk/vits --use_cuda true</p>
-
+<p>An option for single-speaker: </p>
+<p>python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch --use_cuda true</p>
 
 <b> Note on single or multi speaker models </b>
 <p>When chosing a model to run above it needs to be noted whether the model contains a single or multi-speaker voices.  If multi-speaker than additonal parameters will need to be added to the default RemoteSpeech URL configuration manually (comparison covered below).</p>
