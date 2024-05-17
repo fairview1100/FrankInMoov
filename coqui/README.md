@@ -50,10 +50,13 @@ python3 TTS/server/server.py --model_name tts_models/en/ljspeech/fast_pitch --us
 <p>When chosing a model to run above it needs to be noted whether the model contains a single or multi-speaker voices.  If multi-speaker than additonal parameters will need to be added to the default RemoteSpeech URL configuration manually (comparison covered below).</p>
 
 <b>Verify working to to this point:</b>
-<p>If the CoquiTTS server container is runnign properly at this point you can browse to <a href="http://localhost:5002">http://localhost:5002</a> and run TTS tests. </p>
+<p>If the CoquiTTS server container is running properly at this point you can browse to <a href="http://localhost:5002">http://localhost:5002</a> and run TTS tests. </p>
 <p></p>
-![server]
-https://github.com/fairview1100/FrankInMoov/assets/12788634/a1046c27-857f-4772-908e-18df4663e047
+
+
+https://github.com/fairview1100/FrankInMoov/assets/12788634/85eef92f-77cf-4d6a-a109-0f7074a71d68
+
+
 
 <h2>Use CoquiTTS with MRL and RemoteSpeech option</h2>
 <p>The built-in RemoteSpeech mouth function will call the coqui API on port 5002 with the /api/tts parameters for text. 
