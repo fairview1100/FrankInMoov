@@ -103,7 +103,10 @@ voice: null
 <p>Select the gear icon for the mouth, type in some sample text and click Speak.  If all is working you should hear the audio played back in the default MRL output.  You can view the API call from the docker cli window running the API server. </p>
 <img src="images/speak-mrl.png"><img src="images/speak-docker.png">
 <b>Demo</b>
-<a href="images/demo.mkv">Demo Video</a>
+
+https://github.com/fairview1100/FrankInMoov/assets/12788634/db8b38f9-ec4e-4355-93bc-2f27050e5819
+
+
 </body>
 </html>
 
